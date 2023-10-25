@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/panavbindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panavbindal" height="30" width="40" /></a>
 <a href="https://instagram.com/panav_bindal05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panav_bindal05" height="30" width="40" /></a>
-<a href="https://discord.gg/uFbXHVQm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="panav" height="30" width="40" /></a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
