@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://github.com/Pan-nav?tab=repositories](https://github.com/Pan-nav?tab=repositories)
 
-- ⚡ Fun fact **You only have one life- don't settle for just enough and make the most out of it**
+- ⚡ Fun fact **You only have one life- don't settle for enough and make the most out of it :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
