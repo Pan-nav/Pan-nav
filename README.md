@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panav (Panster)</h1>
-<h3 align="center">A passionate 16yr old kid who is enthusiastic about coding and the amazing things you can do with it!</h3>
+<h3 align="center">A passionate 17yr old kid who is enthusiastic about coding and the amazing things you can do with it!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pan-nav&label=Profile%20views&color=0e75b6&style=flat" alt="pan-nav" /> </p>
 
