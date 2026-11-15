@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panav (Panster)</h1>
-<h3 align="center">A passionate 18yr old who is enthusiastic about coding and the amazing things you can do with it!</h3>
+<h3 align="center">A passionate 19yr old who is enthusiastic about coding and the amazing things you can do with it!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pan-nav&label=Profile%20views&color=0e75b6&style=flat" alt="pan-nav" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://github.com/Pan-nav?tab=repositories](https://github.com/Pan-nav?tab=repositories)
 
-- ⚡ Fun fact **I am always down to have a pizza or a waffle. Just don't make me choose :>**
+- ⚡ Fun fact **I'm Red-Green colour blind :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
