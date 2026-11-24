@@ -1,35 +1,33 @@
 <h1 align="center">Hi 👋, I'm Panav (Panster)</h1>
-<h3 align="center">A passionate 19yr old who is enthusiastic about coding and the amazing things you can do with it!</h3>
+<h3 align="center">Computer Science with Management at King's College London · building developer tools and AI agents</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pan-nav&label=Profile%20views&color=0e75b6&style=flat" alt="pan-nav" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pan-nav" alt="pan-nav" /></a> </p>
-
-- 🌱 I’m currently learning **Svelte/Tailwind CSS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Pan-nav?tab=repositories](https://github.com/Pan-nav?tab=repositories)
-
-- 💬 Ask me about **Kotlin and Java**
-
-- 📫 How to reach me **panav.05@proton.me**
-
-- 📄 Know about my experiences [https://github.com/Pan-nav?tab=repositories](https://github.com/Pan-nav?tab=repositories)
-
-- ⚡ Fun fact **I'm Red-Green colour blind :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/panavbindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panavbindal" height="30" width="40" /></a>
-<a href="https://instagram.com/panav_bindal05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panav_bindal05" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/panav-bindal-181bb02a8/">LinkedIn</a> ·
+  <a href="mailto:panav.bindal@gmail.com">Email</a> ·
+  <a href="https://twitter.com/panavbindal">Twitter</a> ·
+  <a href="https://instagram.com/panav_bindal05">Instagram</a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/748594907584790659)](https://discord.com/users/748594907584790659)
+## About me
 
-<h3 align="left">Languages and Tools:</h3>
+- 🎓 Studying **Computer Science with Management** at King's College London
+- 🛠️ Software Engineer at **Flyte** (part-time): I build [MC License](https://mclicense.org/), a licensing platform for Minecraft plugins (~150,000 validations a month), and contribute to the open-source [McUtils](https://github.com/flytegg/mc-utils) (100,000+ monthly users)
+- 🤖 Built **PluginAI**, a multi-agent pipeline that turns a Discord request into a delivered, tested Minecraft plugin
+- 🌱 Currently learning **Svelte/Tailwind CSS**
+- 💬 Ask me about **Kotlin and Java**
+- ⚡ Fun fact: **I'm Red-Green colour blind :)**
+
+## Projects
+
+- **PluginAI** *(Kotlin, Claude Code, Discord API, Gradle)*: five-stage pipeline (requirements interview, coding agent, test agent, fix loop, delivery) plus a headless Minecraft client I wrote from scratch to play JSON-scripted tests. Built in 6 days: ~10,900 lines of Kotlin and 64 unit tests. In one run it took a generated plugin from 14 problems to 27/27 passing tests in 2 automatic passes.
+- [**Slice the Rot**](https://github.com/Pan-nav/Slice-The-Rot) · [live demo](https://pan-nav.github.io/Slice-The-Rot/) *(JavaScript, Vite, MediaPipe, Canvas 2D)*: a webcam arcade game for interview and exam revision, built with a teammate at King's First Year Hackathon. Slice the tech terms that fit each round's rule using your own hand.
+- [**BiasDoc**](https://github.com/Pan-nav/bias-doc) *(SvelteKit, Tailwind CSS, Gemini API)*: analyses articles for bias and cites sources for false or misleading claims.
+- [**McUtils**](https://github.com/flytegg/mc-utils) *(SvelteKit)*: open-source Minecraft utilities for players, freelancers and builders. Third-highest contributor by commits.
+
+All of my public repositories: [github.com/Pan-nav?tab=repositories](https://github.com/Pan-nav?tab=repositories)
+
+## Languages and tools
+
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pan-nav&show_icons=true&locale=en&layout=compact" alt="pan-nav" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pan-nav&show_icons=true&locale=en" alt="pan-nav" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pan-nav&" alt="pan-nav" /></p>
+Also: JavaScript, Python, SQL, Git, Gradle, Vite, GitHub Actions
